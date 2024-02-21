@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D6CAC79-A916-4E95-99CB-315BD7EAE9A5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F906F90C-8D95-4541-B2AB-88C28AA10CA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pet-3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F906F90C-8D95-4541-B2AB-88C28AA10CA7 - b894a5c3e2f89c13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pet_3.StretchableHeaderViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "pet-3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/almaz/pet-6/pet-6/pet-3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "F906F90C-8D95-4541-B2AB-88C28AA10CA7 - b894a5c3e2f89c13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pet_3.StretchableHeaderViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "pet-3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/almaz/pet-6/pet-6/pet-3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
